@@ -1,9 +1,14 @@
 body {
     background: lightsteelblue;
     font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
 }
 
 .foto{
+    width: 350px;
+    height: 350px;
     border: 1px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -51,6 +56,7 @@ a {
 }
 .post_image {
     margin-bottom: 15px;
+    width: 100%;
 }
 
 .contact_list {
