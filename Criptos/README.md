@@ -1,0 +1,1 @@
+Treinando análise de dados da Binance.
